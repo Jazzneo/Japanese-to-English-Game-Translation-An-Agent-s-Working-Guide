@@ -370,7 +370,7 @@ Read `FTPG2-English/README.md` for current status before rebuilding. Relevant im
 The documented rebuild sequence, **after deliberate catalog/override edits**, is:
 
 ```bash
-cd /home/Jazneo/Downloads/games/FTPG2-English
+cd /home/User/Downloads/games/FTPG2-English
 python3 tools/validate_catalog.py
 python3 tools/repack_archive.py
 python3 tools/patch_program.py
